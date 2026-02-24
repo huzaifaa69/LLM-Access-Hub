@@ -2,7 +2,7 @@
 
 LLM Access Hub is a web-based interface for exploring and interacting with large language models.
 
-🔗 Live App:
+** Live App:**
 https://tough-cobra-403.convex.app/
 
 **Overview**
